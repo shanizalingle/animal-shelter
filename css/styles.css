@@ -4,13 +4,13 @@
   padding: 5px;
   margin: 5px;
   border: solid;
-  background-color: rgb(254, 235, 200);
+  background-color: rgba(232, 247, 253, 0.752);
   font-family: Helvetica;
   height: 350px;
   text-align: center;
 }
 body {
-  background-color: rgb(255, 219, 152);
+  background-color: rgb(178, 224, 242);
 }
 h1 {
   font-family: Helvetica;
